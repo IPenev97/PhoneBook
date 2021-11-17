@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/layout/activity_add_contact.xml" value="0.36041666666666666" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/layout/activity_edit_contact.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/layout/activity_main.xml" value="0.3548717948717949" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/layout/contact_item.xml" value="0.36041666666666666" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/layout/fragment_contacts.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/layout/fragment_favorites.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/layout/fragment_favourates.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/layout/fragment_search.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/layout/image_dialog_options.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/menu/add_contact_menu.xml" value="0.36041666666666666" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/menu/navigation_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/menu/search_contact_menu.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.221875" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.221875" />
+        <entry key="..\:/Users/KidneyStealer/AndroidStudioProjects/PhoneBook/app/src/main/res/xml/file_paths.xml" value="0.2015625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
